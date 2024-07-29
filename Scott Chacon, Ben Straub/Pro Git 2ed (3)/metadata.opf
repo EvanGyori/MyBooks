@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1516cfef-d9b4-425d-a30c-1148eac8a922</dc:identifier>
+        <dc:title>Pro Git 2ed</dc:title>
+        <dc:creator opf:file-as="Scott Chacon, Ben Straub" opf:role="aut">Scott Chacon, Ben Straub</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-10T01:33:34+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T21:37:29.327979+00:00"/>
+        <meta name="calibre:title_sort" content="Pro Git 2ed"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
