@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dae8420e-974d-469d-860f-14033f1df377</dc:identifier>
+        <dc:title>Schaum's Outline of Differential Equations 4E</dc:title>
+        <dc:creator opf:file-as="Richard Bronson, Gabriel Costa" opf:role="aut">Richard Bronson, Gabriel Costa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-11T06:08:20+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>ISBN-13: 9780071824859</dc:subject>
+        <meta name="calibre:timestamp" content="2024-07-29T22:52:27.108404+00:00"/>
+        <meta name="calibre:title_sort" content="Schaum's Outlines: Differential Equations, 4th Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

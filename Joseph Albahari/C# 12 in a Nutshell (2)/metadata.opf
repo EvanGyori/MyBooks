@@ -7,7 +7,6 @@
         <dc:creator opf:file-as="Albahari, Joseph" opf:role="aut">Joseph Albahari</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-11-14T00:00:00+00:00</dc:date>
-        <dc:description>&lt;p&gt;&lt;b&gt;Ebook available on November 16, 2023&lt;/b&gt;&lt;/p&gt;&lt;p&gt;When you have questions about C# 12 or .NET 8, this best-selling guide has the answers you need. C# is a language of unusual flexibility and breadth, and with its continual growth, there's always so much more to learn. In the tradition of O'Reilly's Nutshell guides, this thoroughly updated edition is simply the best one-volume reference to the C# language available today.&lt;/p&gt;&lt;p&gt;Aimed at intermediate and advanced programmers, this is a book whose explanations get straight to the point, covering C#, the CLR, and the core .NET libraries in depth without long intros or bloated samples.&lt;/p&gt;&lt;li&gt;Get up to speed on C# from syntax and variables to advanced topics such as pointers, closures, and patterns&lt;/li&gt;&lt;li&gt;Dig deep into LINQ, with three chapters dedicated to the topic&lt;/li&gt;&lt;li&gt;Explore concurrency and asynchrony, advanced threading, and parallel programming&lt;/li&gt;&lt;li&gt;Work with .NET features including regular expressions, networking,...</dc:description>
         <dc:publisher>O'Reilly Media</dc:publisher>
         <dc:language>eng</dc:language>
         <meta name="calibre:timestamp" content="2024-07-29T21:07:01+00:00"/>

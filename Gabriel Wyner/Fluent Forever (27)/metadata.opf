@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb83f6d3-c32b-4c7d-9543-e31179534b06</dc:identifier>
+        <dc:title>Fluent Forever</dc:title>
+        <dc:creator opf:file-as="Wyner, Gabriel" opf:role="aut">Gabriel Wyner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-04T22:00:00+00:00</dc:date>
+        <dc:publisher>Harmony</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385348102</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">22760027</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nonfiction.Self Improvement</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Nonfiction.Sprachen</dc:subject>
+        <dc:subject>Nonfiction.Kommunikation</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2024-07-29T23:25:24.325137+00:00"/>
+        <meta name="calibre:title_sort" content="Fluent Forever : How to Learn Any Language Fast and Never Forget It"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

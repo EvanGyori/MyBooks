@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41f4c2fc-0129-4bdf-b735-70150208f394</dc:identifier>
+        <dc:title>The Complete Musician 4E</dc:title>
+        <dc:creator opf:file-as="Laitz, Steven G." opf:role="aut">Steven G. Laitz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-04T09:00:56+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">9780199347094</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T22:21:43.392182+00:00"/>
+        <meta name="calibre:title_sort" content="Complete Musician 4E, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

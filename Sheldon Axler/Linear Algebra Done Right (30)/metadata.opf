@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8b19083-6259-4586-a2aa-86ceb1af80a3</dc:identifier>
+        <dc:title>Linear Algebra Done Right</dc:title>
+        <dc:creator opf:file-as="libgen.li" opf:role="aut">Sheldon Axler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-27T08:23:41+00:00</dc:date>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T23:34:56.642352+00:00"/>
+        <meta name="calibre:title_sort" content="[Undergraduate Texts in Mathematics ] Sheldon Axler (auth.) - Linear Algebra Done Right (2015, Springer) [10.1007 978-3-319-11080-6]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
