@@ -10,12 +10,8 @@
         <dc:publisher>Genever Benning</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B00P5URD96</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Non-fiction</dc:subject>
-        <dc:subject>Game Programming</dc:subject>
-        <dc:subject>Software Architecture</dc:subject>
-        <dc:subject>Computers</dc:subject>
-        <dc:subject>Programming</dc:subject>
-        <dc:subject>Games</dc:subject>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>computer science</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T23:03:54.627619+00:00"/>
         <meta name="calibre:title_sort" content="Game Programming Patterns"/>
     </metadata>

@@ -9,6 +9,8 @@
         <dc:date>2015-11-04T09:00:56+00:00</dc:date>
         <dc:identifier opf:scheme="ISBN">9780199347094</dc:identifier>
         <dc:language>en</dc:language>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>music</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T22:21:43.392182+00:00"/>
         <meta name="calibre:title_sort" content="Complete Musician 4E, The"/>
     </metadata>

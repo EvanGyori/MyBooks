@@ -7,10 +7,11 @@
         <dc:creator opf:file-as="Tzu, Sun" opf:role="aut">Sun Tzu</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-07-13T07:00:00+00:00</dc:date>
-        <dc:description>&lt;p&gt;Sun Tzu's &lt;I&gt;Art of War&lt;/I&gt;, compiled more than two thousand years ago, is a study of the anatomy of organizations in conflict. It is perhaps the most prestigious and influential book of strategy in the world today. Now, this unique volume brings together the essential versions of Sun Tzu's text, along with illuminating commentaries and auxiliary texts...</dc:description>
         <dc:publisher>Shambhala Publications</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780834827301</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>read</dc:subject>
+        <dc:subject>owned</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-30T00:08:49.209581+00:00"/>
         <meta name="calibre:title_sort" content="Art of War, The"/>
     </metadata>

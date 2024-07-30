@@ -9,6 +9,9 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-09-19T06:49:05+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>linear algebra</dc:subject>
+        <dc:subject>math</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T22:42:21.177940+00:00"/>
         <meta name="calibre:title_sort" content="Schaum's outlines Linear Algebra, Sixth Edition"/>
     </metadata>

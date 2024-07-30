@@ -8,7 +8,9 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-03-19T18:13:19+00:00</dc:date>
         <dc:language>en</dc:language>
-        <dc:subject>V413HAV</dc:subject>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>computer science</dc:subject>
+        <dc:subject>cybersecurity</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T23:17:02.172512+00:00"/>
         <meta name="calibre:title_sort" content="Hacking; The Art of Exploration"/>
     </metadata>

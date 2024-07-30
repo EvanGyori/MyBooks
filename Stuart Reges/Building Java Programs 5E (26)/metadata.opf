@@ -3,16 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">7a20f2ef-e9e2-4881-8834-fcdee4abdffa</dc:identifier>
-        <dc:title>Building Java Programs: A Back to Basics Approach 5E</dc:title>
+        <dc:title>Building Java Programs 5E</dc:title>
         <dc:creator opf:file-as="Reges, Stuart &amp; Stepp, Marty" opf:role="aut">Stuart Reges</dc:creator>
         <dc:creator opf:file-as="Reges, Stuart &amp; Stepp, Marty" opf:role="aut">Marty Stepp</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-18T00:00:00+00:00</dc:date>
-        <dc:description>Building Java Programs: A Back to Basics Approach, 5/e</dc:description>
         <dc:publisher>Pearson</dc:publisher>
         <dc:language>eng</dc:language>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>read</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>computer science</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T23:20:24.316252+00:00"/>
-        <meta name="calibre:title_sort" content="Building Java Programs: A Back to Basics Approach, 5/e"/>
+        <meta name="calibre:title_sort" content="Building Java Programs 5E"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -8,6 +8,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-13T07:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>physics</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T22:47:14.628296+00:00"/>
         <meta name="calibre:title_sort" content="[Schaums Outlines] Eugene Hecht - Schaum’s Outline of College Physics, Twelfth Edition (2017, McGraw-Hill)"/>
     </metadata>

@@ -8,6 +8,9 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-08-09T08:06:20+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>read</dc:subject>
+        <dc:subject>logic</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T23:59:30.188397+00:00"/>
         <meta name="calibre:title_sort" content="LOGIC: A Very Short Introduction: Second Edition"/>
     </metadata>

@@ -8,6 +8,10 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-02-15T07:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>math</dc:subject>
+        <dc:subject>computer science</dc:subject>
+        <dc:subject>algorithms</dc:subject>
+        <dc:subject>data structures</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T22:36:37.208021+00:00"/>
         <meta name="calibre:title_sort" content="Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Solutions to Introduction to Algorithms"/>
     </metadata>

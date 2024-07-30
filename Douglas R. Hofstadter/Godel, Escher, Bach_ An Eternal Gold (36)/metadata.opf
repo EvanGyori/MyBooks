@@ -12,26 +12,7 @@
         <dc:identifier opf:scheme="GOOGLE">lic72KLZq-0C</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780465026562</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Computers</dc:subject>
-        <dc:subject>Art</dc:subject>
-        <dc:subject>Classical</dc:subject>
-        <dc:subject>Symmetry</dc:subject>
-        <dc:subject>Bach; Johann Sebastian</dc:subject>
-        <dc:subject>Individual Artists</dc:subject>
-        <dc:subject>Science</dc:subject>
-        <dc:subject>Science &amp; Technology</dc:subject>
-        <dc:subject>Philosophy</dc:subject>
-        <dc:subject>General</dc:subject>
-        <dc:subject>Metamathematics</dc:subject>
-        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
-        <dc:subject>G'odel; Kurt</dc:subject>
-        <dc:subject>Music</dc:subject>
-        <dc:subject>Logic</dc:subject>
-        <dc:subject>Biography &amp; Autobiography</dc:subject>
-        <dc:subject>Mathematics</dc:subject>
-        <dc:subject>Genres &amp; Styles</dc:subject>
-        <dc:subject>Artificial Intelligence</dc:subject>
-        <dc:subject>Escher; M. C</dc:subject>
+        <dc:subject>owned</dc:subject>
         <meta name="calibre:series" content="Stand Alone"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

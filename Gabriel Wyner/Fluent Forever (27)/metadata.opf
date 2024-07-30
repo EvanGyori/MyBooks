@@ -11,10 +11,7 @@
         <dc:identifier opf:scheme="ISBN">9780385348102</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">22760027</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Nonfiction.Self Improvement</dc:subject>
-        <dc:subject>Nonfiction</dc:subject>
-        <dc:subject>Nonfiction.Sprachen</dc:subject>
-        <dc:subject>Nonfiction.Kommunikation</dc:subject>
+        <dc:subject>owned</dc:subject>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2024-07-29T23:25:24.325137+00:00"/>
         <meta name="calibre:title_sort" content="Fluent Forever : How to Learn Any Language Fast and Never Forget It"/>

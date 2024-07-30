@@ -11,7 +11,11 @@
 &lt;p&gt;Solutions in separate book&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:identifier opf:scheme="ISBN">0262033844</dc:identifier>
         <dc:language>en</dc:language>
-        <dc:subject>The MIT Press</dc:subject>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>math</dc:subject>
+        <dc:subject>computer science</dc:subject>
+        <dc:subject>algorithms</dc:subject>
+        <dc:subject>data structures</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T22:35:20.800041+00:00"/>
         <meta name="calibre:title_sort" content="Introduction to Algorithms, Third Edition"/>
     </metadata>

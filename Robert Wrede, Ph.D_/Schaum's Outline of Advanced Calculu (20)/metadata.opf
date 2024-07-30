@@ -8,6 +8,10 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-07-14T07:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>math</dc:subject>
+        <dc:subject>calculus</dc:subject>
+        <dc:subject>analysis</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T22:49:48.391479+00:00"/>
         <meta name="calibre:title_sort" content="Advanced Calculus"/>
     </metadata>

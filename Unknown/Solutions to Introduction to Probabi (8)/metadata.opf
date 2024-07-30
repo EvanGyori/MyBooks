@@ -8,6 +8,10 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>math</dc:subject>
+        <dc:subject>probability</dc:subject>
+        <dc:subject>set theory</dc:subject>
+        <dc:subject>combinatorics</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T22:11:43.167757+00:00"/>
         <meta name="calibre:title_sort" content="Solutions to Introduction to Probability, Statistics, and Random Processes"/>
     </metadata>

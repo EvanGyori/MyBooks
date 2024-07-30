@@ -9,6 +9,9 @@
         <dc:date>2023-11-14T00:00:00+00:00</dc:date>
         <dc:publisher>O'Reilly Media</dc:publisher>
         <dc:language>eng</dc:language>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>computer science</dc:subject>
+        <dc:subject>C#</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T21:07:01+00:00"/>
         <meta name="calibre:title_sort" content="C# 12 in a Nutshell"/>
     </metadata>

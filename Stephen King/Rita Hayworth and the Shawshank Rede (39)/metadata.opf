@@ -8,6 +8,9 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1982-12-21T01:57:32+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>read</dc:subject>
+        <dc:subject>owned</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-30T00:11:22.883184+00:00"/>
         <meta name="calibre:title_sort" content="Rita Hayworth and the Shawshank Redemption"/>
     </metadata>

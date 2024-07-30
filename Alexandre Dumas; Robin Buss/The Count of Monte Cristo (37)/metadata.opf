@@ -7,37 +7,12 @@
         <dc:creator opf:file-as="Buss, Alexandre Dumas; Robin" opf:role="aut">Alexandre Dumas; Robin Buss</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-08-15T07:00:00+00:00</dc:date>
-        <dc:description>SUMMARY: Thrown in prison for a crime he has not committed, Edmond Dantes is confined to the grim fortress of If. There he learns of a great hoard of treasure hidden on the Isle of Monte Cristo and he becomes determined not only to escape, but also to unearth the treasure and use it to plot the destruction of the three men responsible for his incarceration. Dumas’ epic tale of suffering and retribution, inspired by a real-life case of wrongful imprisonment, was a huge popular success when it was first serialized in the 1840s.</dc:description>
         <dc:publisher>Penguin Classics</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780140449266</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Adventure stories</dc:subject>
-        <dc:subject>False imprisonment</dc:subject>
-        <dc:subject>France</dc:subject>
-        <dc:subject>Literary</dc:subject>
-        <dc:subject>Classic fiction (pre c 1945)</dc:subject>
-        <dc:subject>Classic fiction</dc:subject>
-        <dc:subject>1800-1815</dc:subject>
-        <dc:subject>Revenge</dc:subject>
-        <dc:subject>Fiction</dc:subject>
-        <dc:subject>Historical fiction</dc:subject>
-        <dc:subject>Literature: Texts</dc:subject>
-        <dc:subject>Literature: Classics</dc:subject>
-        <dc:subject>19th century fiction</dc:subject>
-        <dc:subject>False arrest</dc:subject>
-        <dc:subject>Historical</dc:subject>
-        <dc:subject>France - History - 19th century</dc:subject>
-        <dc:subject>Classics</dc:subject>
-        <dc:subject>19th century</dc:subject>
-        <dc:subject>History</dc:subject>
-        <dc:subject>Criticism</dc:subject>
-        <dc:subject>Pirates</dc:subject>
-        <dc:subject>Action &amp; Adventure</dc:subject>
-        <dc:subject>General</dc:subject>
-        <dc:subject>Sailors</dc:subject>
-        <dc:subject>Napoleonic Wars</dc:subject>
-        <dc:subject>General &amp; Literary Fiction</dc:subject>
-        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>read</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-30T00:06:34.647797+00:00"/>
         <meta name="calibre:title_sort" content="Count of Monte Cristo, The"/>
     </metadata>

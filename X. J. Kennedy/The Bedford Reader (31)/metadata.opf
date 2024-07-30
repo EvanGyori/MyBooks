@@ -14,6 +14,9 @@
         <dc:identifier opf:scheme="ISBN">9781319068202</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">B01MQR0I53</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>owned</dc:subject>
+        <dc:subject>read</dc:subject>
+        <dc:subject>english</dc:subject>
         <meta name="calibre:timestamp" content="2024-07-29T23:46:39.620257+00:00"/>
         <meta name="calibre:title_sort" content="Bedford Reader, The"/>
     </metadata>
