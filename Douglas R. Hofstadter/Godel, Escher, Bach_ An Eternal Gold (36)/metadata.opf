@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0dbd3750-91fc-4122-9570-8b26ab33c290</dc:identifier>
+        <dc:title>Gödel, Escher, Bach: An Eternal Golden Braid</dc:title>
+        <dc:creator opf:file-as="Hofstadter, Douglas R." opf:role="aut">Douglas R. Hofstadter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1979-01-02T08:00:00+00:00</dc:date>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0465026567</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">lic72KLZq-0C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780465026562</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Classical</dc:subject>
+        <dc:subject>Symmetry</dc:subject>
+        <dc:subject>Bach; Johann Sebastian</dc:subject>
+        <dc:subject>Individual Artists</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Metamathematics</dc:subject>
+        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
+        <dc:subject>G'odel; Kurt</dc:subject>
+        <dc:subject>Music</dc:subject>
+        <dc:subject>Logic</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Genres &amp; Styles</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Escher; M. C</dc:subject>
+        <meta name="calibre:series" content="Stand Alone"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-07-30T00:01:01.162792+00:00"/>
+        <meta name="calibre:title_sort" content="Gödel, Escher, Bach: An Eternal Golden Braid"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
